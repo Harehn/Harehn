@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my basics project
+- 🔭 I’m currently working on my [basics project](https://github.com/Harehn/Basics)
 - 🌱 I’m currently learning Travis.CI and maven.
 
 
