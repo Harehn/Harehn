@@ -83,4 +83,50 @@ Finally, we implemented the file system with local files acting as disks.
 
 **Team Member:** [Danlin Luo](https://github.com/dluo6)\
 **Languages:** C \
-**Technologies:** Docker,MultiThreading
+**Technologies:** Docker, MultiThreading
+**Link:** https://github.com/Harehn/COMP310-WINTER2024
+
+### 6. [Co-op Webpage](https://github.com/Harehn/Cooperator)
+_A group project to make an online application website for students to register for co-ops_
+
+The goal of the project is to create a landing page to coordinate students' coops.
+We made a full stack project using continuous integration(Travis CI), a backend using Java and JavaSpring Restful Services.
+Our front end was made using Node.js, HTML and CSS(Using Bootstrap). We made tests using Mockito and followed Test driven development.
+We sued ZenHub and Github wiki(deprecated) for documentation and to follow agile methodology. 
+We used PostgreSQL and Heroku to deploy our project. 
+
+_The original code is not accessible and a mirror containing most of the code is given here._
+
+**Language:** SQL, Java, Markdown \
+**Technologies:** Agile methodology, Zenhub, Github, Restful Services, Gradle, Travis CI, Heroku, Postgresql, JUnit, Mockito\
+**Link:** https://github.com/Harehn/Cooperator
+
+### 7. [RestoApp](https://github.com/Harehn/RestoApp)
+_Group project to create an app for restaurant reservations_
+
+A group project to help a restaurant with making reservations and walk-ins. The project was made with JavaFX and UML.
+A visual of the layout of the restaurant is made and the tables and seats can be selected to make reservations and assign orders.
+
+_The original code is not accessible and a mirror containing most of the code is given here._
+
+**Language:** Java (JavaFX), UML\
+**Technologies:** Github, MVC architecture, state diagrams, sequences diagrams\
+**Link:** https://github.com/Harehn/RestoApp
+
+### 8. Robot Shooter
+_Group project to make an autonomous robot car to shoot towards target goals_
+
+The goal of the project was to build and program a lego robot so that it can navigate a varied terrain and shoot a ping pong ball into a goal.
+We tested the various sensors and analysed test data. We used A* algorithm to navigate the terrain. The code was gone in Java with the Lejos library.
+
+**Language:** Java, UML\
+**Technologies:** Github, Object Oriented paradigm, Lejos Library, Lego robot Sensors
+
+### 9. [Left-Right](https://harehn.github.io/Testpage/)
+_Online interactive exercise to train left-right coordination_
+
+A simple webpage made using JavaScript to train left-right coordination.
+
+**Language:** HTML, Javascript\
+**Technologies:** Github, Object Oriented paradigm, Github Pages \
+**Link:** https://harehn.github.io/Testpage/
