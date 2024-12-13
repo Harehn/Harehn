@@ -14,9 +14,16 @@ My language of choice is **Python** closely followed by **Java**.
 I also have a lot of experience with **C**, **Ocaml** and **Javascript**. 
 I have also dabbled in several other languages and frameworks.
 
-
 I am currently very interested in designing tests, documentation and methods to write clean code.
 
+## Proficiencies
+**Concepts and frameworks:** Restful services, Domain Modelling (Code generation from UML), Data Structures and algorithms\
+**Technologies:** Github, Command line and Terminal line, GUI, Front-end Development, Test Driven Development, Agile, Linux, Docker, Office Tools, Confluence, Trailhead, NSGA (AI), SAP ERP \
+**Libraries:** Java FX, JavaSwing, Pytest, Mockito, pymoo, numpy
+
+## My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harehn&hide=prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harehn&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Project
 For more comprehensive list, click [here](Projects.md)
