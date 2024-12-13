@@ -1,26 +1,13 @@
 ## Projects
 
-|      |   |
-|------|---|
-| [1. Basics](#1-basics) |  [5. OS Design](#5-os-design) |
-| [2. Scenic](#2-scenic) |   |
-| [3. Database CLI](#3-database-cli) |   |
-| [4. Network Design](#4-network-design) |   |
+|                                        |                                      |
+|----------------------------------------|--------------------------------------|
+| [1. Basics](#1-basics)                 | [6. Co-op Webpage](#6-co-op-webpage) |
+| [2. Scenic](#2-scenic)                 | [7. RestoApp](#7-restoapp)           |
+| [3. Database CLI](#3-database-cli)     | [8. Robot Shooter](#8-robot-shooter) |
+| [4. Network Design](#4-network-design) | [9. Left-Right](#9-left-right)       |
+| [5. OS Design](#5-os-design)           |                                      | 
 
-[Scenic]()
-
-<!-- TOC -->
-  * [Projects](#projects)
-    * [1. Basics](#1-basics)
-    * [2. Scenic](#2-scenic)
-    * [3. Database CLI](#3-database-cli)
-    * [4. Network Design](#4-network-design)
-    * [5. OS Design](#5-os-design)
-    * [6. Co-op Webpage](#6-co-op-webpage)
-    * [7. RestoApp](#7-restoapp)
-    * [8. Robot Shooter](#8-robot-shooter)
-    * [9. Left-Right](#9-left-right)
-<!-- TOC -->
 
 ### 1. [Basics](https://github.com/Harehn/Basics)
 _A personal project that demonstrates the basics of a programming language_

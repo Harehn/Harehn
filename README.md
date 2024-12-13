@@ -18,7 +18,8 @@ I have also dabbled in several other languages and frameworks.
 I am currently very interested in designing tests, documentation and methods to write clean code.
 
 
-## Projects
+## Project
+For more comprehensive list, click [here](Projects.md)
 
 ### 1. [Basics](https://github.com/Harehn/Basics)
 _A personal project that demonstrates the basics of a programming language_
