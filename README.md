@@ -4,7 +4,8 @@
 -->
 
 Welcome to my GitHub Profile.
-I’m currently working on my [basics project](https://github.com/Harehn/Basics). 
+I’m currently working on a [diceroller fullstack website](https://github.com/Harehn/DiceRoller) hosted on Render
+[here](https://dicerollers.onrender.com/). 
 But I have other repositories that may be interesting to you.
 
 ## About me
@@ -28,7 +29,18 @@ I am currently very interested in designing tests, documentation and methods to 
 ## Project
 For more comprehensive list, click [here](Projects.md)
 
-### 1. [Basics](https://github.com/Harehn/Basics)
+### 1. [Diceroller](https://github.com/Harehn/DiceRoller)
+_A fullstack website to make dice rolls by parsing WOTC style formatted rolls_
+This app uses a flask Backend and a Vue Frontend. This website Frontend is hosted [here](https://dicerollers.onrender.com/).
+and communicates with the backend [here](https://diceroller-uwe7.onrender.com). 
+A batch file also automates the running of the backend and frontend in development mode.
+
+**Languages:** Python, HTML, JavaScript\
+**Technologies:** Vue JS, Flask, Render(deployment)\
+**Link:** https://github.com/Harehn/DiceRoller
+
+
+### 2. [Basics](https://github.com/Harehn/Basics)
 _A personal project that demonstrates the basics of a programming language_
 
 I have created this project to act as a cheatsheet for the languages I know. 
@@ -42,7 +54,7 @@ I also intend to add some sorting and miscellaneous code to these branches, so I
 **Languages(So Far):** Python, Java, Ocaml, C, JavaScript\
 **Link:** https://github.com/Harehn/Basics 
 
-### 2.  [Scenic](https://github.com/ArenBabikian/Scenic/tree/master)
+### 3.  [Scenic](https://github.com/ArenBabikian/Scenic/tree/master)
 _Capstone group project – Creating test cases for autonomous driving cars_
 
 This was my final year project for Bachelor of Software Engineering. 
