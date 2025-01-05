@@ -32,12 +32,16 @@ For more comprehensive list, click [here](Projects.md)
 ### 1. [Diceroller](https://github.com/Harehn/DiceRoller)
 _A fullstack website to make dice rolls by parsing WOTC style formatted rolls_
 
+Through the NavBar, we can navigate to the homepage where you can enter string literals to roll the indicated dice.
+We can also go to the preset tab, where a series of dice will be rolled according to the stored presets. 
+The history of the rolls can be seen and cleared if needed.
+
 This app uses a flask Backend and a Vue Frontend. This website Frontend is hosted [here](https://dicerollers.onrender.com/).
-and communicates with the backend [here](https://diceroller-uwe7.onrender.com). 
+and communicates with the backend [here](https://diceroller-uwe7.onrender.com) to receive the string literal and generate a random roll. 
 A batch file also automates the running of the backend and frontend in development mode.
 
 **Languages:** Python, HTML, JavaScript\
-**Technologies:** Vue JS, Flask, Render(deployment)\
+**Technologies:** Vue JS, Flask, Render(deployment), gunicorn, npm\
 **Link:** https://github.com/Harehn/DiceRoller
 
 
