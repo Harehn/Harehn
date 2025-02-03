@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! It's Nitin :smiley: !
 <!--
 **Harehn/Harehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -8,19 +8,12 @@ I’m currently working on a [diceroller fullstack website](https://github.com/H
 [here](https://dicerollers.onrender.com/). 
 But I have other repositories that may be interesting to you.
 
-## About me
-My preferred name is Nitin (He/Him). I recently graduated from Mcgill University in Bachelor of Software Engineering. 
-I am quite passionate about programming and problems solving.
+## Proficiencies
 My language of choice is **Python** closely followed by **Java**.
 I also have a lot of experience with **C**, **Ocaml** and **Javascript**. 
-I have also dabbled in several other languages and frameworks.
-
-I am currently very interested in designing tests, documentation and methods to write clean code.
-
-## Proficiencies
-**Concepts and frameworks:** Restful services, Domain Modelling (Code generation from UML), Data Structures and algorithms\
-**Technologies:** Github, Command line and Terminal line, GUI, Front-end Development, Test Driven Development, Agile, Linux, Docker, Office Tools, Confluence, Trailhead, NSGA (AI), SAP ERP \
-**Libraries:** Java FX, JavaSwing, Pytest, Mockito, pymoo, numpy
+I have also dabbled in several other languages and frameworks. \
+**Concepts and frameworks:** Restful services, Domain Modelling (Code generation from UML), MVC\
+**Technologies:** GitHub, Command line and Terminal line, Agile, Linux, Docker
 
 ## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harehn&hide=prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
@@ -32,14 +25,8 @@ For more comprehensive list, click [here](Projects.md)
 ### 1. [Diceroller](https://github.com/Harehn/DiceRoller)
 _A fullstack website to make dice rolls by parsing WOTC style formatted rolls_
 
-Through the NavBar, we can navigate to the preset tab, where a series of dice will be rolled according to the stored presets
-which are stored string literals.
-The history of the rolls can be seen and cleared if needed. 
-Persistence is built by storing presets in the local cache.
-
-This app uses a flask Backend and a Vue Frontend. This website Frontend is hosted [here](https://dicerollers.onrender.com/).
-and communicates with the backend [here](https://diceroller-uwe7.onrender.com) to receive the string literal and generate a random roll. 
-A batch file also automates the running of the backend and frontend in development mode.
+The app features a Flask [backend](https://diceroller-uwe7.onrender.com) and a Vue [frontend](https://dicerollers.onrender.com/). 
+Presets (accessed through the NavBar), which are sets of dice, are saved and the roll history can be viewed and cleared.
 
 **Languages:** Python, HTML, JavaScript\
 **Technologies:** Vue JS, Flask, Render(deployment), gunicorn, npm\
@@ -47,15 +34,10 @@ A batch file also automates the running of the backend and frontend in developme
 
 
 ### 2. [Basics](https://github.com/Harehn/Basics)
-_A personal project that demonstrates the basics of a programming language_
+_Cheatsheet for the basics of different programming languages_
 
-I have created this project to act as a cheatsheet for the languages I know. 
-This makes it easy to refer back to what I know and also makes sure I have a basic grasp on a language.
-The basics include Variable Types, Objects, Type Casting, Comments, Arithmetics, Arrays,
-Logic Flow(IfElse, While/for loop etc.), Printing, User Input (Console and interactive),
-Randomness, File IO and (Higher Order) Functions. I will occasionally add more depending on the language.
-
-I also intend to add some sorting and miscellaneous code to these branches, so I can refer to them easily.
+This project is for practice and easy reference of the basics
+The basics include (not limited to) OOP, Typing, Arrays, Logic Flow, (File) IO, Randomness and (Higher Order) Functions.
 
 **Languages(So Far):** Python, Java, Ocaml, C, JavaScript\
 **Link:** https://github.com/Harehn/Basics 
@@ -63,11 +45,9 @@ I also intend to add some sorting and miscellaneous code to these branches, so I
 ### 3.  [Scenic](https://github.com/ArenBabikian/Scenic/tree/master)
 _Capstone group project – Creating test cases for autonomous driving cars_
 
-This was my final year project for Bachelor of Software Engineering. 
-The project was initially forked by our supervisor from [BerkeleyLearnVerify](https://github.com/BerkeleyLearnVerify/Scenic).
-Several iterations have been made on the project since. The project's goal is to create a simulation for autonomous vehicles
-and to create test cases so that we can be more rigorous in software testing of autonomous vehicles.
-
+The project was initially forked from [BerkeleyLearnVerify](https://github.com/BerkeleyLearnVerify/Scenic) and 
+had several iterations since. 
+The project's goal is to create a simulation with different test cases for autonomous vehicles. 
 Our group focused on the optimisation of SAT solving and NSGA creation of test cases. 
 
 **Supervisor:** [Aren Babikian](https://github.com/ArenBabikian) \
