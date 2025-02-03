@@ -1,4 +1,4 @@
-## Hi there! It's Nitin :smiley: !
+## Hi there! It's Nitin :smile: !
 <!--
 **Harehn/Harehn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -8,19 +8,14 @@ I’m currently working on a [diceroller fullstack website](https://github.com/H
 [here](https://dicerollers.onrender.com/). 
 But I have other repositories that may be interesting to you.
 
-## Proficiencies
 My language of choice is **Python** closely followed by **Java**.
 I also have a lot of experience with **C**, **Ocaml** and **Javascript**. 
-I have also dabbled in several other languages and frameworks. \
-**Concepts and frameworks:** Restful services, Domain Modelling (Code generation from UML), MVC\
-**Technologies:** GitHub, Command line and Terminal line, Agile, Linux, Docker
+I have also dabbled in several other languages and frameworks.
 
-## My stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harehn&hide=prs&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harehn&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
-## Project
-For more comprehensive list, click [here](Projects.md)
+## Project ([Click here for more](Projects.md))
 
 ### 1. [Diceroller](https://github.com/Harehn/DiceRoller)
 _A fullstack website to make dice rolls by parsing WOTC style formatted rolls_
