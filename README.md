@@ -6,7 +6,7 @@
 Welcome to my GitHub Profile.
 I’m currently working on a [diceroller fullstack website](https://github.com/Harehn/DiceRoller) hosted on Render
 [here](https://dicerollers.onrender.com/). 
-But I have other repositories that may be interesting to you.
+But I have other repositories that may be interesting to you. You can also check my [website](https://harehn-kaundun.onrender.com/).
 
 My language of choice is **Python** closely followed by **Java**.
 I also have a lot of experience with **C**, **Ocaml** and **Javascript**. 
