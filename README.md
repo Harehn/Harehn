@@ -34,7 +34,7 @@ _Cheatsheet for the basics of different programming languages_
 This project is for practice and easy reference of the basics
 The basics include (not limited to) OOP, Typing, Arrays, Logic Flow, (File) IO, Randomness and (Higher Order) Functions.
 
-**Languages(So Far):** Python, Java, Ocaml, C, JavaScript\
+**Languages(So Far):** Python, Java, Ocaml, C, C++, JavaScript\
 **Link:** https://github.com/Harehn/Basics 
 
 ### 3.  [Scenic](https://github.com/ArenBabikian/Scenic/tree/master)
